@@ -1,2 +1,2 @@
 # Pulsometer
-Erloju formaz duen pultsometro bat eraiki
+Build a clock heart rate monitor
