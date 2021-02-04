@@ -27,9 +27,14 @@ The connections needed to make the circuit correctly:
 
 Now that the explanation of the general context it is done, we are going to start step by step. 
 
-# 1st step: Burn the microcontroller
+### 1st step: Burn the microcontroller
 
-As Attiny85 is a microcontroller, it is necessary an Arduino Uno for the program. 
+As Attiny85 is a microcontroller, it is necessary an Arduino Uno for the program.
+Here it is the datasheet with the connections of the chip. 
+**ARGAZKIA**
+For the programation you have to put the Arduino Uno in mode ISP. 
+File->Examples->ArduinoISP and we load it. 
+
 
 
 
