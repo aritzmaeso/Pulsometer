@@ -16,4 +16,21 @@ Once you insert the links on the board, you are ready to install the libraries t
 
  <img width="460" height="300" src="https://gyazo.com/706fa72be212934e64b18e192488baa1">
 
+## Hardware
+This is the system on a protoyping board: 
+**ARGAZKIA**
+The connections needed to make the circuit correctly: 
+**Zirkuiton argazkia**
+
+
+## Step by step
+
+Now that the explanation of the general context it is done, we are going to start step by step. 
+
+# 1st step: Burn the microcontroller
+
+As Attiny85 is a microcontroller, it is necessary an Arduino Uno for the program. 
+
+
+
 
