@@ -19,6 +19,7 @@ Once you insert the links on the board, you are ready to install the libraries t
 ## Hardware
 This is the system on a protoyping board: 
 **ARGAZKIA**
+
 The connections needed to make the circuit correctly: 
 **Zirkuiton argazkia**
 
@@ -32,6 +33,7 @@ Now that the explanation of the general context it is done, we are going to star
 As Attiny85 is a microcontroller, it is necessary an Arduino Uno for the program.
 Here it is the datasheet with the connections of the chip. 
 **ARGAZKIA**
+
 For the programation you have to put the Arduino Uno in mode ISP. 
 File->Examples->ArduinoISP and we load it. 
 
