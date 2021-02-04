@@ -34,8 +34,23 @@ As Attiny85 is a microcontroller, it is necessary an Arduino Uno for the program
 Here it is the datasheet with the connections of the chip. 
 **ARGAZKIA**
 
-For the programation you have to put the Arduino Uno in mode ISP. 
-File->Examples->ArduinoISP and we load it. 
+For the programation you have to put the **Arduino Uno in mode ISP**. 
+File->Examples->ArduinoISP and load it. 
+
+Once we have this done, as the Arduino IDE do not support Attiny85 it is needed to develop board. Open File->Preferences->Additional Boards Manager URL; you need to add this URL: https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
+
+Then, we are going to use the libraries that are mentioned in the beginning. Tools->Panel->ATtiny. So now we will start programming the Attiny85 with Arduino Uno as you can see in the image.
+**ARGAZKIA**
+
+Now, return to the Arduino IDE on Tools->Processor: "ATtiny85" and choose 8MHz (internal) on Tools->Clock.
+**ARGAZKIA**
+
+It is important to take into account to have the Arduino as ISP. Tools->Programmer: Arduino as ISP. Have a look again to the other tools, maybe the clock is changed to 1MHz, so put it again in 8MHz.
+**ARGAZKIA**
+
+To finish, Tools->Burn Bootloader; to burn the chip. This is only done once for each chip. 
+**ARGAZKIA**
+
 
 
 
