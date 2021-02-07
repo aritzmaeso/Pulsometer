@@ -23,6 +23,9 @@ This is the system on a protoyping board:
 The connections needed to make the circuit correctly: 
 **Zirkuiton argazkia**
 
+## Final function
+Here you can see how it works the watch.
+
 Now that you have a readed the general explanation go to "Wiki" to know how to program at the ATtiny85 and how to use the Voltera step by step. 
 
 
