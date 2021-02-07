@@ -88,7 +88,7 @@ When you have these modifications done, upload it as explained before.
 Since the Attiny85 configurations are done, now we will connect the display and the MAX30102 to the microcontroller. 
 **ARGAZKIA DENA KONEKTUA*
 
-Take it into account that the display we have used it is a SSD1306 128x64 OLED so if you have a display with other dimensions you will need to change the coordinates of the words you whant to put. 
+Take it into account that the display we have used it is a SSD1306 128x64 OLED so if you have a display with other dimensions you will need to change the coordinates of the words you want to put. 
 **ARGAZKIA HITZEN KORDENADAK**
 
 
