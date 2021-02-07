@@ -40,10 +40,11 @@ File->Examples->ArduinoISP and load it.
 Once we have this done, as the Arduino IDE do not support Attiny85 it is needed to develop board. Open File->Preferences->Additional Boards Manager URL; you need to add this URL: https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
 
 Then, we are going to use the libraries that are mentioned in the beginning. Tools->Panel->ATtiny. So now we will start programming the Attiny85 with Arduino Uno as you can see in the image.
-**ARGAZKIA**
+**ARGAZKIA konexiokin** We add a capacitor of 10uF between the RESET and GND of the Arduino. This is done so that it does not restart when we upload to the ATtiny85. 
 
 Now, return to the Arduino IDE on Tools->Processor: "ATtiny85" and choose 8MHz (internal) on Tools->Clock.
 **ARGAZKIA**
+
 
 It is important to take into account to have the Arduino as ISP. Tools->Programmer: Arduino as ISP. Have a look again to the other tools, maybe the clock is changed to 1MHz, so put it again in 8MHz.
 **ARGAZKIA**
@@ -51,7 +52,31 @@ It is important to take into account to have the Arduino as ISP. Tools->Programm
 To finish, Tools->Burn Bootloader; to burn the chip. This is only done once for each chip. 
 **ARGAZKIA**
 
+To check if all the steps are well done, open Examples->Basics->Blink and change the number 13 to 0. 
+**ARGAZKIA** If the program is uploaded correctly you will see "Done uploading". To see it physically, disconnect all the cables and connect them with a Led to see te program in operation. **ARGAZKIA** 
 
+### 2nd step: Upload our program
+
+In the "Arduino program" folder is the program you need to download it and to upload it at the Attiny85. 
+
+Once the program is downoalded, it is necessary to use a new library that it is mentioned at the beggining. Tools->Board->Boards Manager->ATtinyCore. 
+
+When you have the libray: 
+
+ - Tools->Board->ATtinyCore->ATtiny 25/45/85 (No bootloader). 
+
+ - Tools->Chip->ATtiny85.
+
+ - Tools->Clock->8MHz (internal).
+
+ - Tools->Programmer->Arduino as ISP (ATtiny Core).
+ 
+ **NOTE:** To upload a program to the ATtiny85, it is important not to have connected any other component. 
+ 
+ Upload the program and check if in the message it is "Done uploading". 
+ 
+ 
+ 
 
 
 
