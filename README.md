@@ -72,8 +72,26 @@ When you have the libray:
  - Tools->Programmer->Arduino as ISP (ATtiny Core).
  
  **NOTE:** To upload a program to the ATtiny85, it is important not to have connected any other component. 
- 
- Upload the program and check if in the message it is "Done uploading". 
+ **ARGAZKIA konektua attiny**
+
+Upload the program and check if in the message it is "Done uploading". 
+
+### 3rd step: Modification of the program
+
+This program is modified to our liking to see it on the dislpay. So you can put what suits you best. 
+**ARGAZKIA KAIXO...**
+
+When you have these modifications done, upload it as explained before. 
+
+### 4th step: Connections. 
+
+Since the Attiny85 configurations are done, now we will connect the display and the MAX30102 to the microcontroller. 
+**ARGAZKIA DENA KONEKTUA*
+
+Take it into account that the display we have used it is a SSD1306 128x64 OLED so if you have a display with other dimensions you will need to change the coordinates of the words you whant to put. 
+**ARGAZKIA HITZEN KORDENADAK**
+
+
  
  
  
