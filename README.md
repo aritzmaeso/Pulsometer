@@ -26,7 +26,7 @@ The connections needed to make the circuit correctly:
 ## Final function
 Here you can see how it works the watch. **BIDIUA**
 
-Now that you have a readed the general explanation go to **"Wiki"** to know how to program at the [ATtiny85](https://github.com/aritzmaeso/Pulsometer/wiki/Arduino-and-ATtiny85) and how to use the [Voltera](https://github.com/aritzmaeso/Pulsometer/wiki/PCB-board-at-Voltera) step by step. 
+Now that you have a readed the general explanation go to **"Wiki"** to know how to program at the [ATtiny85](https://github.com/aritzmaeso/Pulsometer/wiki/Arduino-and-ATtiny85), the use of the [Voltera](https://github.com/aritzmaeso/Pulsometer/wiki/PCB-board-at-Voltera) and [3D design](https://github.com/aritzmaeso/Pulsometer/wiki/3D-design) step by step. 
 
 
 
