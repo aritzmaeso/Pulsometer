@@ -21,7 +21,9 @@ Once you insert the links on the board, you are ready to install the libraries t
 
 ## Hardware
 This is the system on a protoyping board: 
-**ARGAZKIA**
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ElektronikaDonBosco/Kuadro-dinamikoa/blob/master/Irudiak/Captura.PNG%202.PNG">
+
 
 The connections needed to make the circuit correctly: 
 **Zirkuiton argazkia**
