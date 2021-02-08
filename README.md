@@ -1,4 +1,7 @@
-## Pulsometer
+## PULSOMETER
+
+We are students of Electronic Mainetenace who come from Don Bosco.
+
 This proyect consist in building a portable clock heart rate monitor with Attiny85 in a Flexible solder board. Using a MAX30102 sensor to catch the Heart rates, a SSD1306 128x64 OLED display and a LiPo battery of 3,7V. This should **not be used for medical purposes**.
 The project is a challenge in software, hardware and soldering.
 
