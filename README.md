@@ -7,6 +7,7 @@ The project is a challenge in software, hardware and soldering.
 
 ## Software
 **Needed library**
+
 Firstilly, it is important to put attention on the Arduino actualitation, the correct option is **Arduino 1.8.13**. 
 
 In order to build this to the ATTiny85 (In this case we choose it because we do not have enaught space to put the arduino inside the watch) you will need to install the library ATTinyCore.
@@ -22,7 +23,7 @@ Once you insert the links on the board, you are ready to install the libraries t
 ## Hardware
 This is the system on a protoyping board: 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ElektronikaDonBosco/Kuadro-dinamikoa/blob/master/Irudiak/Captura.PNG%202.PNG">
+  <img width="460" height="300" src="">
 
 
 The connections needed to make the circuit correctly: 
