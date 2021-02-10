@@ -1,6 +1,6 @@
 ## PULSOMETER
 <p align="center">
-  <img width="600" height="500" src="https://github.com/aritzmaeso/Pulsometer/blob/main/Images/Erlojua%20bukatua.jpg">
+  <img width="600" height="700" src="https://github.com/aritzmaeso/Pulsometer/blob/main/Images/Erlojua%20bukatua.jpg">
 </p>
 
 <p align="center">1. Pulsometer
@@ -47,6 +47,7 @@ Here you can see the pulsometer working.
 </p>
 
 <p align="center">4. Pulsometer working
+  
 Now that you have a readed the general explanation go to **"Wiki"** to know how to program at the [ATtiny85](https://github.com/aritzmaeso/Pulsometer/wiki/Arduino-and-ATtiny85), the use of the [Voltera](https://github.com/aritzmaeso/Pulsometer/wiki/PCB-board-at-Voltera) and [3D design](https://github.com/aritzmaeso/Pulsometer/wiki/3D-design) step by step. 
 
 
