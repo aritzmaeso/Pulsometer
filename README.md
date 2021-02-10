@@ -1,4 +1,9 @@
 ## PULSOMETER
+<p align="center">
+  <img width="600" height="500" src="https://github.com/aritzmaeso/Pulsometer/blob/main/Images/Erlojua%20bukatua.jpg">
+</p>
+
+<p align="center">1. Pulsometer
 
 We are students of Electronic Mainetenace who come from Don Bosco.
 
@@ -22,7 +27,7 @@ Once you insert the links on the board, you are ready to install the libraries t
   <img width="600" height="500" src="https://github.com/aritzmaeso/Pulsometer/blob/main/Images/libraries.PNG">
 </p>
 
-<p align="center">Libraries
+<p align="center">2. Libraries
  
 
 ## Hardware
@@ -32,12 +37,16 @@ This is the system on a protoyping board:
   <img width="600" height="500" src="https://github.com/aritzmaeso/Pulsometer/blob/main/Images/Protoboard.jpg">
 </p>
 
-<p align="center">All connected
+<p align="center">3. All connected
 
 
 ## Final function
-Here you can see how it works the watch. **BIDIUA**
+Here you can see the pulsometer working. 
+<p align="center">
+  <img width="600" height="500" src="https://github.com/aritzmaeso/Pulsometer/blob/main/Images/reloj%20funcioando.png">
+</p>
 
+<p align="center">4. Pulsometer working
 Now that you have a readed the general explanation go to **"Wiki"** to know how to program at the [ATtiny85](https://github.com/aritzmaeso/Pulsometer/wiki/Arduino-and-ATtiny85), the use of the [Voltera](https://github.com/aritzmaeso/Pulsometer/wiki/PCB-board-at-Voltera) and [3D design](https://github.com/aritzmaeso/Pulsometer/wiki/3D-design) step by step. 
 
 
