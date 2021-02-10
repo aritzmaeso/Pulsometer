@@ -1,4 +1,5 @@
-## PULSOMETER
+## PULSOMETER 
+### Using ATtiny85 and Voltera
 <p align="center">
   <img width="600" height="700" src="https://github.com/aritzmaeso/Pulsometer/blob/main/Images/Erlojua%20bukatua.jpg">
 </p>
