@@ -18,13 +18,18 @@ http://drazzy.com/package_drazzy.com_index.json **This will be to upload the pro
 Once you insert the links on the board, you are ready to install the libraries to upload the arduino program to the Attiny Board. You will need to search At Tools-> Board->Boards Manager. There search and install **Attiny85 by Davis** to burn the arduino and **ATTinyCore by Spence Konde** To upload the program to the chip. If we have done the previus steps, we will have 2 new board to choose were upload our program.
 
 
- <img width="460" height="300" src="https://gyazo.com/706fa72be212934e64b18e192488baa1">
+<p align="center">
+  <img width="600" height="500" src="https://gyazo.com/706fa72be212934e64b18e192488baa1">
+</p>
+
+<p align="center">Libraries
+ 
 
 ## Hardware
 This is the system on a protoyping board: 
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/aritzmaeso/Pulsometer/blob/main/Images/Protoboard.jpg">
+  <img width="600" height="500" src="https://github.com/aritzmaeso/Pulsometer/blob/main/Images/Protoboard.jpg">
 </p>
 
 <p align="center">All connected
