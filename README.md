@@ -48,7 +48,7 @@ Here you can see the pulsometer working.
 
 <p align="center">4. Pulsometer working
   
-Now that you have a readed the general explanation go to **"Wiki"** to know how to program at the [ATtiny85](https://github.com/aritzmaeso/Pulsometer/wiki/Arduino-and-ATtiny85), the use of the [Voltera](https://github.com/aritzmaeso/Pulsometer/wiki/PCB-board-at-Voltera) and [3D design](https://github.com/aritzmaeso/Pulsometer/wiki/3D-design) step by step. 
+Now that you have a readed the general explanation go to **"Wiki"** to know how to program at the [ATtiny85](https://github.com/aritzmaeso/Pulsometer/wiki/Arduino-and-ATtiny85), the use of the [Voltera](https://github.com/aritzmaeso/Pulsometer/wiki/PCB-board,-Voltera-and-LPKF) and [3D design](https://github.com/aritzmaeso/Pulsometer/wiki/3D-design) step by step. 
 
 
 
