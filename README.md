@@ -19,7 +19,7 @@ Once you insert the links on the board, you are ready to install the libraries t
 
 
 <p align="center">
-  <img width="600" height="500" src="https://gyazo.com/706fa72be212934e64b18e192488baa1">
+  <img width="600" height="500" src="https://github.com/aritzmaeso/Pulsometer/blob/main/Images/libraries.PNG">
 </p>
 
 <p align="center">Libraries
