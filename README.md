@@ -22,12 +22,9 @@ Once you insert the links on the board, you are ready to install the libraries t
 
 ## Hardware
 This is the system on a protoyping board: 
-<p align="center">
-  <img width="460" height="300" src="">
 
 
-The connections needed to make the circuit correctly: 
-**Zirkuiton argazkia**
+
 
 ## Final function
 Here you can see how it works the watch. **BIDIUA**
