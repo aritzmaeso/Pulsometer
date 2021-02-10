@@ -23,7 +23,11 @@ Once you insert the links on the board, you are ready to install the libraries t
 ## Hardware
 This is the system on a protoyping board: 
 
+<p align="center">
+  <img width="600" height="200" src="https://github.com/aritzmaeso/Pulsometer/blob/main/Images/Protoboard.jpg">
+</p>
 
+<p align="center">All connected
 
 
 ## Final function
